@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         gp_chinahrt
+// @name         gp_chinahrt 自动刷课
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-15
 // @description  auto play video for gp.chinahrt.com (四川继续教育)
