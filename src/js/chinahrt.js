@@ -2,7 +2,7 @@
 // @name         gp_chinahrt
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-15
-// @description  auto play video for gp.chinahrt.com
+// @description  auto play video for gp.chinahrt.com (四川继续教育)
 // @author       You
 // @match        https://*.chinahrt.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chinahrt.com
